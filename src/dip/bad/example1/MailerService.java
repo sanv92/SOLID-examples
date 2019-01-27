@@ -1,4 +1,4 @@
-package dip.bad;
+package dip.bad.example1;
 
 public class MailerService {
     private SmtpMailer smtpMailer;

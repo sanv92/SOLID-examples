@@ -1,4 +1,4 @@
-package dip.good;
+package dip.good.example1;
 
 public class Main {
     public static void main(String[] args) {

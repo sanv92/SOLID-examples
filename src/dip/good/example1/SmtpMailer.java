@@ -1,4 +1,4 @@
-package dip.good;
+package dip.good.example1;
 
 public class SmtpMailer implements Mailer {
     public void send() {
